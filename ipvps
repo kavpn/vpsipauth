@@ -5,3 +5,5 @@ test-ka 2022-02-02 3.4.5.5
 #& test-sc Lifetime 178.128.118.254
 test-sc Lifetime 178.128.118.254
 178.128.118.254
+#& kavpn Lifetime 178.128.118.254
+#& kavpn 178.128.118.254
